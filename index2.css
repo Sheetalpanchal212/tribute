@@ -1,0 +1,69 @@
+/* Reset default margins and padding for all elements */
+body {
+    padding: 10px;
+    margin: 5px;
+  }
+* {
+    margin: 10;
+    padding: 5;
+  }
+  
+  /* Apply some basic styling to the body */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  /* Style the header */
+  .header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  #title {
+    font-size: 24px;
+  }
+  
+  #img-div {
+    text-align: center;
+  }
+  
+  #image {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #333;
+    border-radius: 10px;
+  }
+  
+  /* Style the main content */
+  #main {
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  /* Style the timeline list */
+  ul {
+    list-style-type: none;
+  }
+  
+  li {
+    margin: 10px 0;
+  }
+  
+  /* Style the blockquote and pre elements */
+  q, pre {
+    font-style: italic;
+    text-align: center;
+    margin: 20px;
+  }
+  
+  /* Style the strong tags */
+  strong {
+    font-weight: bold;
+    color: #333;
+  }
+  
